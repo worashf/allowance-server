@@ -1,4 +1,5 @@
-csa_server: All things about civil service allowance system
+# allowance-server
+: All things about civil service allowance system
 This allowance calculator developed helps customers for easy allowance calculations,letter and terms of referecence (tor) managment. It also have an easy integration to do complicated deductions with improved reporting and and stastical method.
 
 Any allowance data is dynamic but follows a specific structure of the organization. . The allowance is created by employees and passes through approval managers to get the calculation.
@@ -6,17 +7,17 @@ Deduction data is raised from allowance data. The employee will fill out the ent
 Generally. This system has a dashboard to control and monitor your progress and also has an admin side to control an account. You can check out the project with employee id (123) and password(123). You can see live Demo Link
 
 You can find the frontend repo here
-screenshot
 
-Tools used
+
+# Tools used
 Mongoose
 Express
 Node.js
 socket.io
-Built With
+# Built With
 Pkg (Bulit for easy distrbution).
 Pm2 (for making the system to service).
-Prerequisites
+# Prerequisites
 The basic requirements for building the executable are:
 
 A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
@@ -24,19 +25,19 @@ VSCode or any other equivalent code editor
 Node Package Manager (For running, debuging, or installing dependancies to be used)
 
 
-Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
-npm install
+# npm install
 Installs basic dependency for the project.
 
-npm start
+# npm start
 Runs the app in the development mode.
 Open http://localhost:1111 to view it in the browser.
 
 The page will reload if you make edits.\
 
-npm run build
+# npm run build
 Builds the app for production to the dist folder.
 It correctly bundles the app in production mode and optimizes the build for the best performance.
 
@@ -57,8 +58,8 @@ git clone https://github.com/worashf/allowance-server.git
 
 Feel free to check the issues page.
 
-Show your support
+# Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+# Acknowledgments
 Ethiopian civil service commision
