@@ -6,7 +6,7 @@ Any allowance data is dynamic but follows a specific structure of the organizati
 Deduction data is raised from allowance data. The employee will fill out the entire form(the place and the date) where he/she had been. After that, it will be calculated by finance employees. -The letter system includes direct writing editing and also setting an audience. The audience can be managers or any employers of the organization. -If there is any miscommunication among employees a chat and messaging system is integrated. It facilitates easy communication and avoids any barriers of miscommunication.
 Generally. This system has a dashboard to control and monitor your progress and also has an admin side to control an account. You can check out the project with employee id (123) and password(123). You can see live Demo Link
 
-You can find the frontend repo here
+You can find the frontend repo  [Frontend](https://github.com/worashf/allowance-client)
 
 
 # Tools used
