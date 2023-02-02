@@ -1,5 +1,5 @@
 # allowance-server
-: All things about civil service allowance system
+All things about civil service allowance system
 This allowance calculator developed helps customers for easy allowance calculations,letter and terms of referecence (tor) managment. It also have an easy integration to do complicated deductions with improved reporting and and stastical method.
 
 Any allowance data is dynamic but follows a specific structure of the organization. . The allowance is created by employees and passes through approval managers to get the calculation.
